@@ -24,7 +24,7 @@
             .WithSummary("Create Product")
             .WithDescription("Create Product");
 
-            throw new NotImplementedException();
+            //throw new NotImplementedException();
         }
     }
 }
